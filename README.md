@@ -34,7 +34,9 @@ This project involves analyzing pizza sales data using SQL and Power BI to gener
   - Added conditional columns for sorting months.
 - **Slicers**:
     -added date fileter and pizza category filter
+  
 ![Slicer](https://github.com/user-attachments/assets/3c6ace8d-baab-4d81-aceb-687f7fccca5f)
+
 ### Dashboard 2
 - **KPIs and Measures**:
   - Used measures like total revenue, total sold pizzas, and total orders.
