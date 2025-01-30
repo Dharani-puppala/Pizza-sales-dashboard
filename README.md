@@ -24,11 +24,8 @@ This project involves analyzing pizza sales data using SQL and Power BI to gener
 - Built visualizations and dashboards.
   
 - Dashboard1:
-  -HEADING-SHAPE,TEXT BOX
-  -conditional formatting bar colors
-  -extracting day column, day number column from date take only first three letter by UPPER(LEFT(Pizza_sales[day name]),3))
-  -adding conditional columns for sorting graph day wise
-  -extracting month column, month number column from date
+  -HEADING-SHAPE,TEXT BOX, conditional formatting bar colors, extracting day column, day number column from date take only first three letter by 
+  UPPER(LEFT(Pizza_sales[day name]),3)),adding conditional columns for sorting graph day wise, extracting month column, month number column from date
 -Dashboard2:
   -using mearusers like total revenue, total sold pizza ,total orders
   -added Navigator Button
