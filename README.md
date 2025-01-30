@@ -22,6 +22,7 @@ This project involves analyzing pizza sales data using SQL and Power BI to gener
 ### 2. Data Processing
 - Added DAX measures as per KPI requirements.
 - Built visualizations and dashboards.
+  
 - Dashboard1:
   -HEADING-SHAPE,TEXT BOX
   -conditional formatting bar colors
