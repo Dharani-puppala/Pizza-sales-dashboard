@@ -31,6 +31,7 @@ This project involves analyzing pizza sales data using SQL and Power BI to gener
 -Dashboard2:
   -using mearusers like total revenue, total sold pizza ,total orders
   -added Navigator Button
+  ![Button](https://github.com/user-attachments/assets/3ffdf9e7-8e8d-445a-846c-2478aeb14cca)
 - Created KPI metric cards.
 
 ## KPI Requirements
