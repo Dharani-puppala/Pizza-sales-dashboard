@@ -43,7 +43,7 @@ Analyzing the key indicators of pizza sales data to gain insights into business 
 
 ## Chart Requirements
 
-### Dashboard 1
+
 1. **Daily Trend for Total Orders**
    -Created a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in     order volumes on a daily basis.
    
@@ -75,6 +75,13 @@ Analyzing the key indicators of pizza sales data to gain insights into business 
 - Used advanced Power BI functionalities like conditional formatting and sorting.
 - Added navigation buttons for seamless dashboard interaction.
 
+### Dashboard 1
+
+![Dashboard1](https://github.com/user-attachments/assets/e408b71f-be8f-45ae-a230-0d66bc7dbebb)
+
+### Dashboard 2
+
+![Dashboard2](https://github.com/user-attachments/assets/9be51967-1a04-43fd-9b7e-70a337c4b228)
 ---
 
 ### Technologies Used
