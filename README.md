@@ -23,16 +23,24 @@ This project involves analyzing pizza sales data using SQL and Power BI to gener
 - Added DAX measures as per KPI requirements.
 - Built visualizations and dashboards.
   
-- Dashboard1:
-  -HEADING-SHAPE,TEXT BOX, conditional formatting bar colors, extracting day column, day number column from date take only first three letter by 
-  UPPER(LEFT(Pizza_sales[day name]),3)),adding conditional columns for sorting graph day wise, extracting month column, month number column from date
--Dashboard2:
-  -using mearusers like total revenue, total sold pizza ,total orders
-  -added Navigator Button
-  
-  ![Button](https://github.com/user-attachments/assets/3ffdf9e7-8e8d-445a-846c-2478aeb14cca)
-  
-- Created KPI metric cards.
+### Dashboard 1
+- **Heading**: Shape, Text Box
+- **Conditional Formatting**: Applied bar colors.
+- **Day-wise Analysis**:
+  - Extracted day column, formatted first three letters using `UPPER(LEFT(Pizza_sales[day name],3))`.
+  - Added conditional columns for sorting days.
+- **Month-wise Analysis**:
+  - Extracted month and month number from date.
+  - Added conditional columns for sorting months.
+- **Slicers**:
+    -added date fileter and pizza category filter
+![Slicer](https://github.com/user-attachments/assets/3c6ace8d-baab-4d81-aceb-687f7fccca5f)
+### Dashboard 2
+- **KPIs and Measures**:
+  - Used measures like total revenue, total sold pizzas, and total orders.
+- **Navigator Button**: Added for seamless navigation.
+
+![Button](https://github.com/user-attachments/assets/3ffdf9e7-8e8d-445a-846c-2478aeb14cca)
 
 ## KPI Requirements
 Analyzing the key indicators of pizza sales data to gain insights into business performance by calculating the following metrics
